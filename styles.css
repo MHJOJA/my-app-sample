@@ -1,0 +1,13 @@
+body {
+    background-color: blueviolet;
+    font-size: larger;
+}
+header {
+    background-color: chartreuse;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}
+.container {
+    background-color: turquoise;
+    font-weight: bold;
+}
