@@ -10,4 +10,5 @@ header {
 .container {
     background-color: turquoise;
     font-weight: bold;
+    font-family: sans-serif;
 }
